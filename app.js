@@ -18,6 +18,6 @@ app.listen(port, () =>{
 }
 
 app.get('/ivan', async (request, response) =>{
-    response.status(200).json({messages: "hello there! I am Kikay"});
+    response.status(200).json({messages: "hello there! I am Trisha"});
 
 })
